@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SilkSarees"
+    }
+  },
+  "defaultProject": "SilkSarees",
+  "cli": {
+    "analytics": "d50d56c4-6b73-49c6-bdf5-2db9dcb7faae"
+  }
 }
